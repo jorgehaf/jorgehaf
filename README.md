@@ -1,7 +1,7 @@
 ### Opaaa! Eu sou o Jorge Henrique
 
-- 🔭 Trabalho com front-end
-- 🌱 Estudando Vue.js e React.js
+- 🔭 Trabalho com Frontend, utilizando Vue e React
+- 🌱 Estudando Typescript, Vue.js e React.js
 - 📫 jorgehenriqueaf@gmail.com
 - 💼 https://www.linkedin.com/in/jorgehenriqueaf/
 <div align="center">
