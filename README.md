@@ -1,4 +1,4 @@
-### Opaaa! Eu sou o Jorge Henrique
+### Oopa, bom demais?! Eu sou o Jorge Henrique!
 
 - 🔭 Trabalho com Frontend, utilizando Vue e React
 - 🌱 Estudando Typescript, Vue.js e React.js
