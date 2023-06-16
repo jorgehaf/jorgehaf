@@ -2,8 +2,6 @@
 
 - 🔭 Trabalho com Frontend, utilizando Vue e React
 - 🌱 Estudando Typescript, Vue.js e React.js
-- 📫 jorgehenriqueaf@gmail.com
-- 💼 https://www.linkedin.com/in/jorgehenriqueaf/
 <div align="center">
   <a href="https://github.com/jorgehaf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgehaf&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
