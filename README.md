@@ -1,7 +1,7 @@
 ### Oopa, bom demais?! Eu sou o Jorge Henrique!
 
 - 🔭 Trabalho com Frontend, utilizando Vue e React
-- 🌱 Estudando Typescript, Vue.js e React.js
+- 🌱 Estudando Typescript, Vue e React
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
