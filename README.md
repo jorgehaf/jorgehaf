@@ -1,4 +1,4 @@
-### Oopa, bom demais?! Eu sou o Jorge Henrique!
+### Oopa, bom demais?! Eu sou o Jorge Henrique! Sou um desenvolvedor apaixonado por resolver problemas.
 
 - 🔭 Trabalho com Frontend, utilizando Vue e React
 - 🌱 Estudando Typescript, Vue e React
