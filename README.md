@@ -1,8 +1,8 @@
 ### Hey there! I'm Jorge Henrique, a senior software developer who loves solving problems.
 
-- 🔭 Building web and mobile products end to end, from the interface to the API and the database
-- ⚙️ Vue, React and TypeScript on the frontend; Node.js and PostgreSQL on the backend
-- 🌱 Currently diving deeper into infrastructure, CI/CD and cloud architecture
+- 🔭 Building web and mobile products end to end, from the interface to the API and the database;
+- ⚙️ Vue, React and TypeScript on the frontend; Node.js and PostgreSQL on the backend;
+- 🌱 Currently diving deeper into infrastructure, CI/CD and cloud architecture;
 
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
